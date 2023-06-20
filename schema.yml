@@ -1,0 +1,227 @@
+- fieldPath: kpiId
+  description: Unique identifier
+  type: string
+
+- fieldPath: kpiType
+  description: Name of the entity
+  type: string
+
+- fieldPath: month
+  description: Age of the entity
+  type: string
+
+- fieldPath: createdAt
+  description: Unique identifier
+  type: string
+
+- fieldPath: modifiedAt
+  description: Name of the entity
+  type: string
+
+- fieldPath: category.WOW.sr
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.WOW.kpi
+  description: Unique identifier
+  type: string
+
+- fieldPath: category.WOW.unitMeasurement
+  description: Name of the entity
+  type: string
+
+- fieldPath: category.WOW.value
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.TAT.sr
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.TAT.kpi
+  description: Unique identifier
+  type: string
+
+- fieldPath: category.TAT.unitMeasurement
+  description: Name of the entity
+  type: string
+
+- fieldPath: category.TAT.value
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.Renewal.sr
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.Renewal.kpi
+  description: Unique identifier
+  type: string
+
+- fieldPath: category.Renewal.unitMeasurement
+  description: Name of the entity
+  type: string
+
+- fieldPath: category.Renewal.value
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.Partner.sr
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.Partner.kpi
+  description: Unique identifier
+  type: string
+
+- fieldPath: category.Partner.unitMeasurement
+  description: Name of the entity
+  type: string
+
+- fieldPath: category.Partner.value
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.Recovery.sr
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.Recovery.kpi
+  description: Unique identifier
+  type: string
+
+- fieldPath: category.Recovery.unitMeasurement
+  description: Name of the entity
+  type: string
+
+- fieldPath: category.Recovery.value
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.Team.sr
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.Team.kpi
+  description: Unique identifier
+  type: string
+
+- fieldPath: category.Team.unitMeasurement
+  description: Name of the entity
+  type: string
+
+- fieldPath: category.Team.value
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.Position.sr
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.Position.kpi
+  description: Unique identifier
+  type: string
+
+- fieldPath: category.Position.unitMeasurement
+  description: Name of the entity
+  type: string
+
+- fieldPath: category.Position.value
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.Attrition.sr
+  description: Age of the entity
+  type: stringx 
+
+- fieldPath: category.Attrition.kpi
+  description: Unique identifier
+  type: string
+
+- fieldPath: category.Attrition.unitMeasurement
+  description: Name of the entity
+  type: string
+
+- fieldPath: category.Attrition.value
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.Hiring.sr
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.Hiring.kpi
+  description: Unique identifier
+  type: string
+
+- fieldPath: category.Hiring.unitMeasurement
+  description: Name of the entity
+  type: string
+
+- fieldPath: category.Hiring.value
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.Amber.sr
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.Amber.kpi
+  description: Unique identifier
+  type: string
+
+- fieldPath: category.Amber.unitMeasurement
+  description: Name of the entity
+  type: string
+
+- fieldPath: category.Amber.value
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.Airtel Attrition.sr
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.Airtel Attrition.kpi
+  description: Unique identifier
+  type: string
+
+- fieldPath: category.Airtel Attrition.unitMeasurement
+  description: Name of the entity
+  type: string
+
+- fieldPath: category.Airtel Attrition.value
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.Airtel Amber.sr
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.Airtel Amber.kpi
+  description: Unique identifier
+  type: string
+
+- fieldPath: category.Airtel Amber.unitMeasurement
+  description: Name of the entity
+  type: string
+
+- fieldPath: category.Airtel Amber.value
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.Gender Diversity.sr
+  description: Age of the entity
+  type: string
+
+- fieldPath: category.Gender Diversity.kpi
+  description: Unique identifier
+  type: string
+
+- fieldPath: category.Gender Diversity.unitMeasurement
+  description: Name of the entity
+  type: string
+
+- fieldPath: category.Gender Diversity.value
+  description: Age of the entity
+  type: stirng
